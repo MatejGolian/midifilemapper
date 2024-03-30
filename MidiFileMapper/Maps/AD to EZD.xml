@@ -93,6 +93,8 @@
 - Hats Pedal chick In:21 
 -->
   <General Name="AD to EZD Standard" />
+  
+    <NoteMap Name="Kick" InNote="36" OutNote="36" />
 
     <NoteMap Name="Snare Left" InNote="38" OutNote="33" />
   <NoteMap Name="Snare Right" InNote="40" OutNote="38" />

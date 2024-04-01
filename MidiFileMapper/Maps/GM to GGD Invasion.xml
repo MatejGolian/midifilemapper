@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<MidiMappingRules>
+
+<!-- GGD Invasion Drums
+17 HH CC
+22 ADK
+23 Kick Left
+24 Kick Right
+26 Snare Hit
+27 Snare Flam
+28 Snare Ruff
+29 Snare Off
+30 Snare Click
+33 Rack Tom 1
+34 Rack Tom 2
+35 Rack Tom 3
+36 Floor Tom 1
+37 Floor Tom 2
+38 Floor Tom 3
+41 HH Tip Tight
+42 HH Edge Tight
+43 HH Tip Closed
+44 HH Edge Closed
+45 HH Open 1
+46 HH Open 2
+47 HH Open 3
+48 HH Pedal
+52 Main Crash L Hit
+53 Main Crash L Choke
+54 Main Crash R Hit
+55 Main Crash R Choke
+56 Wide Crash L Hit
+57 Wide Crash L Choke
+58 Wide Crash R Hit
+59 Wide Crash R Choke
+61 Ride Bell
+62 Ride Hit
+63 Ride Edge
+65 China L Hit
+66 China L Choke
+67 China R Hit
+68 China R Choke 
+70 X-Hats Closed
+71 X-Hats Open
+73 Splash L Hit
+74 Splash L Choke
+75 Splash R Hit
+76 Splash R Choke
+78 Stack Hit
+79 Bell L Hit
+80 Bell R Hit
+-->
+
+<General Name="GM to GGD Invasion" />
+
+<NoteMap Name="Scratch Push" InNote="29" OutNote="17" />
+<NoteMap Name="Metronome Bell" InNote="34" OutNote="22" />
+<NoteMap Name="Acoustic Bass Drum" InNote="35" OutNote="23" />
+<NoteMap Name="Bass Drum 1" InNote="36" OutNote="24" />
+<NoteMap Name="Side Stick" InNote="37" OutNote="27" />
+<NoteMap Name="Acoustic Snare" InNote="38" OutNote="26" />
+<NoteMap Name="Hand Clap" InNote="39" OutNote="28" />
+<NoteMap Name="Electric Snare" InNote="40" OutNote="30" />
+<NoteMap Name="Low Floor Tom" InNote="41" OutNote="33" />
+<NoteMap Name="Closed Hi-Hat" InNote="42" OutNote="43" />
+<NoteMap Name="High Floor Tom" InNote="43" OutNote="34" />
+<NoteMap Name="Pedal Hi-Hat" InNote="44" OutNote="48" />
+<NoteMap Name="Low Tom" InNote="45" OutNote="35" />
+<NoteMap Name="Open Hi-Hat" InNote="46" OutNote="45" />
+<NoteMap Name="Low-Mid Tom" InNote="47" OutNote="36" />
+<NoteMap Name="Hi-Mid Tom" InNote="48" OutNote="37" />
+<NoteMap Name="Crash Cymbal 1" InNote="49" OutNote="52" />
+<NoteMap Name="High Tom" InNote="50" OutNote="38" />
+<NoteMap Name="Ride Cymbal 1" InNote="51" OutNote="62" />
+<NoteMap Name="Chinese Cymbal" InNote="52" OutNote="65" />
+<NoteMap Name="Ride Bell" InNote="53" OutNote="61" />
+<NoteMap Name="Tambourine" InNote="54" OutNote="73" />
+<NoteMap Name="Splash Cymbal" InNote="55" OutNote="75" />
+<NoteMap Name="Cowbell" InNote="56" OutNote="79" />
+<NoteMap Name="Crash Cymbal 2" InNote="57" OutNote="54" />
+<NoteMap Name="Vibraslap" InNote="58" OutNote="80" />
+<NoteMap Name="Ride Cymbal 2" InNote="59" OutNote="63" />
+
+</MidiMappingRules>
